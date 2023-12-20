@@ -29,6 +29,6 @@
 - Scipy
 
 ## 결과 및 결론
-이 모델은 낙동강에서의 cyanobacteria 개체수 중 Microcystis가 영양염 수치 간의 상관관계가 다른 종보다 높다는 것을 밝혀냈습니다. 결과는 [이곳](#결과-https://colab.research.google.com/drive/1A0qJ7vzFH2BczOxfAyMLiwTWSaSz3AlT)과 [이곳](#결과-https://colab.research.google.com/drive/16HYS8W9_h_8L4jOIzC_I7dvl2mpGPuvZ#scrollTo=AWY6gtOafHHG)에서 확인할 수 있습니다. 이러한 분석은 계절별로 어떤 요인이 개체 수 증가에 영향을 주는지 또한 알아내어 향후 수질 관리 및 예방 조치에 사용될 것입니다.
+이 모델은 낙동강에서의 cyanobacteria 개체수 중 Microcystis가 영양염 수치 간의 상관관계가 다른 종보다 높다는 것을 밝혀냈습니다. 결과는 https://colab.research.google.com/drive/1A0qJ7vzFH2BczOxfAyMLiwTWSaSz3AlT과 결과-https://colab.research.google.com/drive/16HYS8W9_h_8L4jOIzC_I7dvl2mpGPuvZ#scrollTo=AWY6gtOafHHG에서 확인할 수 있습니다. 이러한 분석은 계절별로 어떤 요인이 개체 수 증가에 영향을 주는지 또한 알아내어 향후 수질 관리 및 예방 조치에 사용될 것입니다.
 
 
