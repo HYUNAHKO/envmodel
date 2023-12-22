@@ -2,7 +2,7 @@
 # 낙동강 Cyano 분석 머신러닝 모델
 
 ## 프로젝트 개요
-이 프로젝트는 낙동강의 8개 보에서 발견되는 cyanobacteria 4종(Microcystis, Anabaena, Oscillatoria, Aphanizaomenon)과 총 질소(TN), 총 인(TP) 수치, 독성 물질(MC-LR) 간의 상관관계를 분석하는 머신러닝 모델을 구현합니다. 이 모델은 환경 데이터(https://water.nier.go.kr/web)를 통해 수질 관리 현황을 2020-2023.7월까지 분석하여 제시했습니다. 프로젝트의 목적은 날짜 및 계절에 따른 cyanobacteria 수 및 다른 요인들과 이에 영향을 받는 독성 물질 수치의 변화를 분석하는 것을 목표로 합니다.
+이 프로젝트는 낙동강의 8개 보에서 발견되는 cyanobacteria 4종(Microcystis, Anabaena, Oscillatoria, Aphanizaomenon)과 총 질소(TN), 총 인(TP) 수치, 독성 물질(MC-LR) 간의 상관관계를 분석하는 머신러닝 모델을 구현합니다. 이 모델은 환경 데이터(https://water.nier.go.kr/web) 를 통해 수질 관리 현황을 2020-2023.7월까지 분석하여 제시했습니다. 프로젝트의 목적은 날짜 및 계절에 따른 cyanobacteria 수 및 다른 요인들과 이에 영향을 받는 독성 물질 수치의 변화를 분석하는 것을 목표로 합니다.
 
 ## 모델 설명
 본 모델은 다음의 주요 내용을 분석했습니다. :
